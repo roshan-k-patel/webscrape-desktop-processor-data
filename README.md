@@ -1,9 +1,11 @@
 # webscrape-desktop-processor-data
 Webscrapes useful desktop processor data from Newegg and writes it to csv for data analysis
 
-Libraries Used:
+Libraries used:
 * bs4
 * urllib
+
+Markdown table representation of generated csv file:
 
 | Brand  | Description                                                                                                                                                                                              | Cost     | Shipping         | Offers (No.) | Reviews (No.) | Link                                                                                                |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------|--------------|---------------|-----------------------------------------------------------------------------------------------------|
