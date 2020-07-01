@@ -127,7 +127,7 @@ def remainingPagesScrape(f):
 
 
 def main():
-    filename = "Processors.csv"
+    filename = "processors.csv"
     f = open(filename, "w")
     headers = "Brand, Description, Cost, Shipping, Offers (No.), Reviews (No.), Link\n"
 
